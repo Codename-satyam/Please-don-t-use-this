@@ -17,12 +17,13 @@ export const birthday = {
   openNote: 'I hope this little universe brings a smile to your face and warmth to your heart. You deserve all the happiness in the world.',
   greeting: 'Dear RITUU,',
   letter: [
-    'I hope you know how much you mean to me. You are the kind of person who makes the world a better place just by being in it.',
-    'I wanted to make something special for your birthday, something that captures the warmth and magic you bring into my life. This little universe is a reflection of the joy and love you inspire.',
+    'I hope you know that you carry a little magic within you, the kind that makes ordinary days feel special and the world a little brighter just by being in it. You have become such a beautiful part of my world, and sometimes, I wish words were enough to tell you how much you truly mean to me.',
+    'For your birthday, I wanted to create something more than just a gift. I wanted to build you a little universe, one filled with the warmth of your smile, the happiness you have given me, and all the little moments that have quietly found a home in my heart. Every little corner of this universe holds a piece of the joy you bring into my life, and I hope that as you explore it, you feel even a fraction of the love that inspired me to create it.'
   ],
-  favoriteMemory: 'That one chamber game at lotus, where we laughed until our sides hurt. I will never forget that moment.',
-  finalWish: 'I wish you all the happiness in the world and that you always remember how much you are loved.',
-  ps: '', // optional P.S. at the bottom of the letter. Leave '' to hide it.
+  favoriteMemory: 'That one Chamber game at Lotus, where we laughed until our sides hurt, completely lost in our own little world. It might have been just another ordinary day to everyone else, but to me, it became one of those moments I would wish to live a thousand times over. Funny how the smallest moments become the most precious memories when they are shared with the right person. And if I could revisit one little chapter of our story, I would choose that one in a heartbeat. ♡',
+  finalWish: 'On your birthday, I wish you a life filled with the kind of happiness that stays, the kind of love that feels safe, and the kind of dreams that make your eyes sparkle. May life always be gentle with your heart, may you find reasons to smile even on your hardest days, and may you never forget how incredibly special you are. And whenever the world feels a little too heavy, I hope you remember that somewhere in this vast universe, there is someone who is endlessly grateful that you exist. Happy Birthday, RITUU. If I could give you one thing beyond all the wishes and gifts, it would be the ability to see yourself through my eyes, even for a moment, so you would understand just how beautiful you are to me. ❤️',
+  ps: 'If this little universe could tell you one thing, I hope it would be this: You make my world a little more magical just by being in it. ✨',
+  // optional P.S. at the bottom of the letter. Leave '' to hide it.
   signature: 'Satyam',
   wishHeadline: 'Make a wish.   (I hope I am in it.)',
   closingLine: 'Happy birthday, my love.   ✿',
