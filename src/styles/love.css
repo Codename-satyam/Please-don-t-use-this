@@ -1,0 +1,7 @@
+/* Romantic re-skin. Loaded after global.css, so delete this file (and its import in main.jsx) to go back to the old colours. */
+:root{--cream:#FFF0F1;--butter:#FFC8D6;--red:#E5365F;--pink:#F7B6C6}
+::selection{background:#ffc8d6}
+.eyebrow::before,.eyebrow::after{content:'\2665';font-size:.8em;margin:0 .5em;color:#FF6B8B;-webkit-text-stroke:1px var(--ink)}
+.fh{position:absolute;bottom:-40px;font-size:calc(var(--s)*1px);line-height:1;opacity:0;text-shadow:0 0 6px rgba(255,255,255,.8);animation:fhrise linear infinite;z-index:2}
+@keyframes fhrise{0%{transform:translate(0,0) rotate(-10deg);opacity:0}12%{opacity:.85}50%{transform:translate(16px,-55vh) rotate(8deg)}100%{transform:translate(-10px,-112vh) rotate(-6deg);opacity:0}}
+@media(prefers-reduced-motion:reduce){.fh{display:none}}
